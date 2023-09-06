@@ -8,3 +8,4 @@ A: nice to meet you and you?
 B: yes, good
 
 A: good bye.
+##git config
